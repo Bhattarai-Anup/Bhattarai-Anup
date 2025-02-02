@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/Bhattarai-Anup/Bhattarai-Anup/blob/output/github-contribution-grid-snake.svg)
+
 
 <center>
     <img src="https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" alt="logo">
@@ -75,6 +75,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhattarai-Anup&show_icons=true&locale=en&layout=compact" alt="Bhattarai-Anup" /></p>
 
-![Snake animation](https://github.com/Bhattarai-Anup/Bhattarai-Anup/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 </div>
